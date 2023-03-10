@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
+
+#root{
+    font-family: 'Poppins', sans-serif;
+    -fx-background-color: #264653;
+}
+
+.label{
+    -fx-text-fill: #fff;
+    -fx-font-weight: 700;
+}
+
+.button{
+    -fx-background-color: #fff;
+    -fx-text-fill: #264653;
+    -fx-font-weight: 700;
+    -fx-cursor: pointer;
+}
+
+.tableColumn .label{
+    -fx-background-color: #264653;
+    -fx-text-fill: #fff;
+}
